@@ -23,5 +23,5 @@ State : It shows rides from that state only. City: It shows rides from selected 
 <section>
 <h2> Neartest </h2>
 <p> It shows all rides which has date in Past. which mean you can track you roads where to go  </p>
-<img src="./public/Screen Shots/Past.jpg.jpg" >
+<img src="./public/Screen Shots/Past.jpg" >
 </section>
